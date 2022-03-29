@@ -10,7 +10,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bbxz7z7.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bbxz7z7.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不小心授權不明合約? 5步驟教你取消授權</title>
+      <link>https://bbxz7z7.github.io/posts/cancel-authorization/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbxz7z7.github.io/posts/cancel-authorization/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;不明授權釣魚案例:&lt;/br&gt;
+&lt;a href=&#34;https://tw.news.yahoo.com/opensea-phishing-attack-063733174.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAKW_hANR8nQMFUxaJUmqgixpflnPbsMQZH_JPgi6PSD2tfVt_g_hCTSgIisSCxWWZd9GGbnlrNGZtckCr5T-aKT71ettAKH3c8RAQc9me3wCGroMfO41GZfgYN9qt_7WX9wYJkZO8Hfqgc5EsHugnxJBGl-shI0dJM-UejrcyWZx&#34;&gt;Opensea釣魚事件。&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/ZombitStudio/posts/2921532864774452/&#34;&gt;UNIH 代幣空投。&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>免費上架你的NFT教學</title>
       <link>https://bbxz7z7.github.io/posts/create-nft/</link>
@@ -18,22 +31,13 @@
       
       <guid>https://bbxz7z7.github.io/posts/create-nft/</guid>
       <description>&lt;p&gt;如何在Opensea平台使用Polygon免費上架你的NFT。&lt;/p&gt;
-&lt;p&gt;在區塊鏈的世界中做任何事情都需要有加密錢包，所以如果你還沒擁有一個加密錢包可以參考以下影片。&lt;/p&gt;
+&lt;p&gt;在區塊鏈的世界中做任何事情都需要有加密錢包，&lt;/br&gt;所以如果你還沒擁有一個加密錢包可以參考以下影片。&lt;/p&gt;
 &lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/HIK0tHrULpc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/h2&gt;
 &lt;p&gt;那如果你已經擁有加密錢包了，那就直接往下看吧!👇👇👇&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://bbxz7z7.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bbxz7z7.github.io/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     
   </channel>
